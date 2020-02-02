@@ -14,17 +14,17 @@ CVUT FEL BDT course
 10. [Big Data Science.](Lectures/b0m33bdt-10p.pdf)
 
 ## Labs
-1. [Cluster basics](01_CLUSTER_BASICS)
-2. [SQL, python](02_SQL_PYTHON)
-3. [Hive](03_HIVE)
-4. [Spark RDD](04_SPARK_RDD)
-5. [Spark SQL](05_SPARK_SQL)
-6. [Streaming](06_Streaming)
-7. [Credit](Zapocet)
+1. [Cluster basics](https://github.com/MichalMatija/B0M33BDT/tree/master/Labs/01_CLUSTER_BASICS)
+2. [SQL, python](https://github.com/MichalMatija/B0M33BDT/tree/master/Labs/02_SQL_PYTHON)
+3. [Hive](https://github.com/MichalMatija/B0M33BDT/tree/master/Labs/03_HIVE)
+4. [Spark RDD](https://github.com/MichalMatija/B0M33BDT/tree/master/Labs/04_SPARK_RDD)
+5. [Spark SQL](https://github.com/MichalMatija/B0M33BDT/tree/master/Labs/05_SPARK_SQL)
+6. [Streaming](https://github.com/MichalMatija/B0M33BDT/tree/master/Labs/06_Streaming)
+7. [Credit](https://github.com/MichalMatija/B0M33BDT/tree/master/Labs/Zapocet)
 
 ## Homeworks
-1. [Hadoob.](Homeworks/HW1)
-2. [Spark dataframe.](Homeworks/HW2)
+1. [Hadoob.](https://github.com/MichalMatija/B0M33BDT/tree/master/Homeworks/HW1)
+2. [Spark dataframe.](https://github.com/MichalMatija/B0M33BDT/tree/master/Homeworks/HW2)
 
 ## Useful links
 
